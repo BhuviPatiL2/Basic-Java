@@ -1,3 +1,16 @@
+/.classpath
+/.project
+/abstraction/
+/array/
+/assignmentOnPatterns/
+/assignmentOnSwitch/
+/assignmentOnVariable_DataTypes/
+/constructor/
+/datatype_variables/
+/ifElse_Programming/
+/inheritance/
+/interfaces/
+/numberSeries/
 /objects_Methods/
 /patternProgramming/
 /runTimePoly/
