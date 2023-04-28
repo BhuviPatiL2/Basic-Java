@@ -15,8 +15,6 @@ public class Student21 {
 	public String toString() {
 		return id + " " + name + " " + dept + " " + marks;
 	}
- public static void main(String[] args) {
-	System.out.println("hiiiii");
-}
+
 }
 

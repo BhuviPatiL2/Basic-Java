@@ -1,6 +1,7 @@
 package array;
 import java.util.*;
 public class TestStudent21 {
+	
 	Student stud[]=new Student[3];   //array
 	Scanner sc=new Scanner(System.in);
 	
@@ -13,7 +14,7 @@ public class TestStudent21 {
 			String dept=sc.next();
 			float marks=sc.nextFloat();
 			
-			Student s= new Student(id,name,dept,marks); 
+			Student s= new Student(id,name,dept,marks);    //array object
 			
 			stud[i]=s;
 		}
