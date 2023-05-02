@@ -4,6 +4,7 @@ public class ArmstrongNum {
 //152= 1+125+27=153
 	public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
+	System.out.println("Enter any number");
 	int num=sc.nextInt();
 	int count=0;
 	int num2=num;
