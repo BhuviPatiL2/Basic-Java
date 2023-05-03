@@ -1,4 +1,4 @@
-package interviewIMP;
+ package interviewIMP;
 
 public class sumOfDigit {
 

@@ -33,7 +33,7 @@ public class SearchingEle {
 		int ele = sc.nextInt();
 		int res = search(arr, ele);
 		System.out.println("Index of that element "+res);
-
+     sc.close();
 	}
 
 }

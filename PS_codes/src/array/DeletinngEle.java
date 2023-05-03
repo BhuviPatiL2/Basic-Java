@@ -22,6 +22,7 @@ public class DeletinngEle {
 			System.out.println(arr[i]);
 		}
 
+		// taking input and calling method
 		System.out.println("Enter the index");
 		int in = sc.nextInt();
 
