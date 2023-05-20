@@ -9,14 +9,10 @@ public class ReplaceNegativeEle {
 			if (arr[i] < 0) {
 				arr[i] = (arr[i - 1]) * (arr[i - 1]);
 				
-			}
-			
+			}		
 		}
 	System.out.println(Arrays.toString(arr));
-	}
-	
-	
-	
+	}	
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
