@@ -1,4 +1,4 @@
-package method;
+package method_this_variables;
 
 public class Student {
 	String name="shweta";
