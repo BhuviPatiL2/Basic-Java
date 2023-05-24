@@ -1,4 +1,4 @@
-package object;
+package object_InstanceBlock;
 
 public class Tap {
 	Water tapOn(String s) {                 //non primitive data type

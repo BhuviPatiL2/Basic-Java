@@ -11,6 +11,10 @@ System.out.println("eating");
 	void sleep() {
 System.out.println("Sleeping");
 	}
+	
+	void drink() {
+		System.out.println("drink water");
+	}
 
 	private void smoke() {
 

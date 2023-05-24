@@ -1,4 +1,4 @@
-package object;
+package object_InstanceBlock;
 
 public class Cow {
 	Milk gives() {

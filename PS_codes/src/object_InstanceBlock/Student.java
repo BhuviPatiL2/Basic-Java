@@ -1,4 +1,4 @@
-package object;
+package object_InstanceBlock;
 //creation of object 
 public class Student {
 	String name;
