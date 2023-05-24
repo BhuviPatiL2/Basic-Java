@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance_MethodOveriding;
 
 public class TestVegetable {
 
