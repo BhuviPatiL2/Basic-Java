@@ -1,4 +1,4 @@
-package constructor;
+package constructor_constructorOverloading;
 
 public class Trainer extends Human{
 
