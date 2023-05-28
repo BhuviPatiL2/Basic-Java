@@ -1,4 +1,4 @@
-package object_InstanceBlock;
+package object_InstanceBlock_variableShadowing;
 //creation of object 
 public class Student {
 	String name;

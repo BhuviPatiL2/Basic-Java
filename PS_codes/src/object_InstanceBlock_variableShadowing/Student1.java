@@ -1,4 +1,4 @@
-package object_InstanceBlock;
+package object_InstanceBlock_variableShadowing;
 
 public class Student1 {
 String name;
